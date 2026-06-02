@@ -17,11 +17,6 @@ Comprehensive Internet subscription management system for LWASIVA_NET. Complete 
 - **Tech:** Node.js, Express, React, MySQL, JWT, WhatsApp API
 - **Features:** Client management, contract handling, invoicing, payment tracking, WhatsApp notifications
 
-### [Gestion-des-contacts](https://github.com/Sagelusenge/Gestion-des-contacts) 📇
-Contact directory application for CBCA (Baptist pastors directory). Full-stack application with mobile support.
-- **Tech:** MySQL, Node.js/Express, React, Expo, PWA
-- **Features:** Real-time search, role-based access, mobile app, WhatsApp integration
-
 ### [First-Project-in-Flutter](https://github.com/Sagelusenge/First-Project-in-Flutter) 📱
 Mobile application development with Flutter framework.
 - **Tech:** Flutter, Dart, C++
@@ -43,30 +38,11 @@ Mobile application development with Flutter framework.
 - 🔐 Implementing secure authentication systems
 - 🚀 Building scalable backend services
 
-## 💼 Expertise
-
-✅ **API Development** - RESTful APIs with Express.js  
-✅ **Database Design** - MySQL schema, indexing, stored procedures  
-✅ **Authentication** - JWT tokens, role-based access control  
-✅ **Full-Stack Development** - Frontend to database integration  
-✅ **Mobile Apps** - Flutter and Expo development  
-✅ **Integration** - Third-party APIs (WhatsApp, payment systems)  
-
-## 🎓 Continuous Learning
-
 I'm passionate about:
 - Writing clean, maintainable code
 - Following best practices and design patterns
 - Solving real-world problems with technology
 - Contributing to open-source projects
-
-## 📊 GitHub Statistics
-
-```
-🔷 Public Repositories: 5
-⭐ Followers-Ready Projects
-📈 Focus on Quality Over Quantity
-```
 
 ## 🤝 Connect With Me
 
